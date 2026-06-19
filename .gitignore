@@ -1,0 +1,37 @@
+# Unreal generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+
+# Build outputs
+Build/
+BuildOutputs/
+dist/
+*.apk
+*.aab
+
+# Local credentials
+.env
+*.key
+*.keystore
+*.jks
+
+# Temporary files
+Temp/
+tmp/
+UpgradeLog.htm
+
+# Operating system files
+.DS_Store
+Thumbs.db
